@@ -168,7 +168,3 @@ def upload():
 
     return 
 
-############
-# curl -X POST https://szcac7x7jc.execute-api.ap-northeast-1.amazonaws.com/api/upload -H "Content-Type: audio/wav" -F  "file=@voice4.wav"
-# 上記のcurlで送った場合にS3に正常にputされる
-############
