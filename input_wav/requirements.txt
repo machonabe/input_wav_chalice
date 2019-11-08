@@ -1,0 +1,4 @@
+boto3
+ulid-py
+numpy
+matplotlib
